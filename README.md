@@ -24,7 +24,7 @@ In this repository, you'll find:
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/your-username/Starbucks-Data-Analysis.git
+    git clone https://github.com/arnabsaha7/Starbucks-Data-Analysis.git
     cd Starbucks-Data-Analysis
     ```
 
